@@ -20,7 +20,7 @@ const account3 = {
 
 const account4 = {
     owner: "Stanislav Ivanchenko",
-    movements: [430, 1000, 700, 50, 90],
+    movements: [430, 1000, 700, 50, 80],
     pin: 4444,
 };
 
